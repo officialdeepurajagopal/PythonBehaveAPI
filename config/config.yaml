@@ -1,3 +1,5 @@
 base_url: https://reqres.in
 endpoints:
-  getUser: /api/users/2
+  getAllUsers: /api/users
+  getSingleUser: /api/user/1
+  addUser: /api/users
